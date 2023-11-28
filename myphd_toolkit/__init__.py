@@ -9,5 +9,4 @@ from .tbp import *
 # Package version
 __version__ = '1.0.0'
 
-
 __all__ = ["data", "drug", "graphing", "phylo", "tbp"]
