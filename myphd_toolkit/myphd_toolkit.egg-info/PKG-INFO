@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: myphd-toolkit
+Version: 0.0.1
+Summary: A package of all the boring function often used in my data analysis
+Home-page: https://github.com/linfeng-wang/PhD-toolkit
+Author: Linfeng Wang
+Author-email: linfeng.wang@lshtm.ac.uk
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

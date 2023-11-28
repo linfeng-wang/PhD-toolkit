@@ -1,0 +1,6 @@
+pyproject.toml
+setup.cfg
+myphd_toolkit.egg-info/PKG-INFO
+myphd_toolkit.egg-info/SOURCES.txt
+myphd_toolkit.egg-info/dependency_links.txt
+myphd_toolkit.egg-info/top_level.txt
